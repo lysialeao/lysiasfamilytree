@@ -6,6 +6,8 @@ The project provides an interactive way to visualize family relationships and ex
 
 ## Preview
 
+![Landing Page Preview](./family-tree-preview.png)
+
 ![Family Tree Preview](./family-tree-preview.png)
 
 ## Tech Stack
